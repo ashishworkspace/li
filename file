@@ -1,0 +1,3 @@
+yum install zip wget git libdwarf-tools make gcc "kernel-devel-uname-r == $(uname -r)" -y
+pip install pycryptodome
+wget https://forensics.cert.org/centos/cert/7/x86_64/python2-distorm3-3.5.0-1.el7.x86_64.rpm
